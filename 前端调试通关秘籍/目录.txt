@@ -1,0 +1,93 @@
+1如何阅读本小册？
+
+2初识调试
+
+3如何调试网页的 JS（以 React 为例）
+
+4VSCode Chrome Debugger 配置详解
+
+5sourcemap 的原理和作用
+
+6Webpack 的 sourcemap 配置
+
+7实战案例：调试 Vue 项目
+
+8VSCode Chrome Debugger 断点映射的原理
+
+9实战案例：调试 React 源码
+
+10实战案例：调试 Vue 源码
+
+11用 VSCode Snippets 快速创建调试配置
+
+12如何调试 Node.js 代码
+
+13跑 npm scripts，有更香的方式
+
+14VSCode Node Debugger 配置详解
+
+15调试代码会遇到的 9 种 JS 作用域
+
+16实战案例：调试 Nest.js 项目和源码
+
+17命令行工具的两种调试方式（以 ESLint 源码调试为例）
+
+18实战案例：调试 patch-package 源码
+
+19实战案例：调试 Babel 源码
+
+20实战案例：调试 Vite 源码
+
+21实战案例：调试 TypeScript 源码
+
+22打断点的 7 种方式，你用过几种？
+
+23实战案例：调试 Ant Design 组件源码
+
+24实战案例：调试 ElementUI 组件源码
+
+25会用 Performance 工具，就能深入理解 Event Loop
+
+26如何用 Performance 工具分析并优化性能
+
+27Web Vitals 如何计算？如何衡量网页性能？
+
+28console.log 会导致内存泄漏？用 Performance 和 Memory 分析下（上）
+
+29console.log 会导致内存泄漏？用 Performance 和 Memory 分析下（下）
+
+30如何用 Layers 分析网页的图层
+
+31Chrome DevTools 小功能集锦
+
+32放弃 console.log 吧！用 Debugger 你能读懂各种源码
+
+33如何远程调试 android 移动端网页
+
+34如何远程调试 ios 移动端网页
+
+35远程调试移动端网页的原理
+
+36如何用 Charles 断点调试 https 请求？
+
+37Charles 全功能速通（上）
+
+38Charles 全功能速通（下）
+
+39线上报错如何直接调试本地源码？
+
+40手动对接 CDP 来理解 Chrome DevTools 实现原理
+
+41实现 Chrome DevTools 的 Coverage 功能
+
+42编译 chrome devtools frontend 源码，然后用它来调试
+
+43基于 CDP 实现 Puppeteer（上）
+
+44基于 CDP 实现 Puppeteer（下）
+
+45把 Puppeteer 融入调试流程来做自动化
+
+46小册总结
+
+47（加更）面试必问的异步顺序问题，用 Performance 轻松理清
